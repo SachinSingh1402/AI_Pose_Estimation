@@ -58,5 +58,7 @@ The following images demonstrate the output of the program:
 - Pose Estimation: This image shows the detected pose landmarks.
 - Curl Counter: This image shows the real-time count of curls and the stage of the curl (up/down).
 
+https://github.com/user-attachments/assets/e21c6f85-2eb7-470a-bdbc-3f1729b9db19
+
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
